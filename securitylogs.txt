@@ -1,0 +1,37 @@
+2024-1-25
+1706113669$1706113679
+B
+96.5
+243$Package$Amazan Delivery
+1706120865$1706120877
+@
+99.8
+243$Package$Amazan Delivery
+
+2024-1-26
+1706238442$1706238493
+B
+93.3
+646$Human$A person in a white shirt
+1706249600$1706249602
+^
+77.2
+662$Human$A person in a black hoodie
+1706283750$1706283758
+@
+2.6
+212$Animal$A Giraffe
+
+2024-1-27
+1706290774$1706290774
+B
+65.2
+243$Package$Amazan Delivery
+1706291306$1706291415
+B
+81.1
+243$Package$Amazan Delivery
+1706293537$1706293553
+X
+66.7
+662$Human$A person in a black hoodie
